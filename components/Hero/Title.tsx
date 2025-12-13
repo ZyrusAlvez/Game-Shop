@@ -1,3 +1,4 @@
+import "../../style/animation.css"
 import { MdOutlineArrowBackIos, MdOutlineArrowForwardIos } from "react-icons/md";
 
 const Title = () => {
