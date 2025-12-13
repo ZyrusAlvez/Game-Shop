@@ -1,8 +1,10 @@
-
+import Hero from "../components/Hero/Hero";
 
 const page = () => {
   return (
-    <div className="text-red-500">page</div>
+    <div>
+      <Hero />
+    </div>
   )
 }
 
