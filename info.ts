@@ -12,6 +12,7 @@ export const shop = [
                         name: "Flare Blood Kamas",
                         price: 3.99,
                         imagePath: "/Roblox/The Forge/roblox-forge-1.jpg",
+                        description: ""
                     }
                 ]
             },
@@ -30,6 +31,7 @@ export const shop = [
                         name: "Flare Blood Kamas",
                         price: 3.99,
                         imagePath: "/Roblox/The Forge/roblox-forge-1.jpg",
+                        description: ""
                     }
                 ]
     }
